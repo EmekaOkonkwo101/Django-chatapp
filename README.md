@@ -18,4 +18,5 @@
 
 Open your local server at port 8000 and access the app
 ![image](https://github.com/EmekaOkonkwo101/Django-chatapp/assets/103938859/96be8fad-8291-4f30-8efc-e9d66c50ff43)
-![image](https://github.com/EmekaOkonkwo101/Django-chatapp/assets/103938859/eae90078-baef-41e8-ba5d-59b4cf6256f0)
+![image](https://github.com/EmekaOkonkwo101/Django-chatapp/assets/103938859/a9872aa0-1143-4268-bc39-b9031ee01139)
+
