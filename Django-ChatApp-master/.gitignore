@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.class
+db.sqlite3
+*.log
+*.pot
+*.pyc
+*/*/*/__pycache__/
+*/*/__pycache__/
+*/__pycache__/
+envtest
+env
+env11
+env.dev
+
+*.sqlite3
+static/
+venv/
+chat/__pycache__/
+.env
