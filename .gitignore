@@ -12,6 +12,7 @@ db.sqlite3
 */__pycache__/
 envtest
 env
+env2
 env11
 env.dev
 
