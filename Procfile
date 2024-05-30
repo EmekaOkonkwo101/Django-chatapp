@@ -1,3 +1,3 @@
 release: python manage.py migrate
 web: python manage.py runserver
-web: gunicorn myproject.wsgi
+web: gunicorn Pychat.wsgi
